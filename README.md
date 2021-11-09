@@ -13,7 +13,7 @@ Olá! Eu sou a Ludmilla Perucci💕
   <img align="center" alt="Ludmilla-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Ludmilla-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="Ludmilla C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  
+  <img align="center" alt="Ludmilla Python" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   
   <img align="right" alt="Ludmilla" height="100" width="110" src="https://user-images.githubusercontent.com/85947891/128520482-4d702948-9e93-47d1-b9ee-558eeabd748b.png">
 </div>
