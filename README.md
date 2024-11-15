@@ -30,7 +30,7 @@
 ## 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LudmillaPerucci&layout=compact&langs_count=10&theme=radical&card_width=250&icon_color=FF69B4" alt="Linguagens Mais Usadas" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LudmillaPerucci&layout=compact&langs_count=10&theme=radical&card_width=250&icon_color=FF69B4" alt="Linguagens Mais Usadas" height="140">
 </div>
 
 
