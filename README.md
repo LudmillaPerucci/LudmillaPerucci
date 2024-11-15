@@ -1,6 +1,6 @@
  # Olá! Eu sou Ludmilla Perucci 💕  
 <div align="center">
-  Apaixonada por tecnologia, programação, inovação e análise de dados. 🚀  
+  Apaixonada por tecnologia, programação, inovação e análise de dados. 🎲 
   Bem-vindo(a) ao meu espaço no GitHub, onde compartilho meus projetos e aprendizados!
 </div>
 
@@ -17,7 +17,7 @@
 
 
 
-## Tecnologias que eu uso no meu dia a dia ⚙️
+## ⚙️ Tecnologias que eu uso no meu dia a dia 
 
 <div align="center">
   <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> 
