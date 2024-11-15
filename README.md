@@ -9,11 +9,13 @@
 
 <div align="center">
   <!-- Meu Perfil -->
-  <img src="https://github-readme-stats.vercel.app/api?username=LudmillaPerucci&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_title=true&icon_color=8A2BE2" alt="Meu GitHub" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=LudmillaPerucci&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_title=true&icon_color=8A2BE2" alt="Meu GitHub" height="120" style="margin-right: 20px;">
 
   <!-- Gráfico de Contribuições (Streak) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LudmillaPerucci&theme=radical&fire=FF69B4&ring=8A2BE2&border=FF69B4" alt="Contribuições" height="160">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LudmillaPerucci&theme=radical&fire=FF69B4&ring=8A2BE2&border=FF69B4" alt="Contribuições" height="120">
 </div>
+
+
 
 ## Tecnologias que eu uso no meu dia a dia ⚙️
 
