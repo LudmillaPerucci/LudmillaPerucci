@@ -1,8 +1,12 @@
- # Olá! Eu sou Ludmilla Perucci 💕  
+# Olá! Eu sou Ludmilla Perucci 💕  
+
 <div align="center">
-  Apaixonada por tecnologia, programação, inovação e análise de dados🎲.  
+  Apaixonada por tecnologia, programação, inovação e análise de dados.🎲  
+</div>
+<div align="center">
   Bem-vindo(a) ao meu espaço no GitHub, onde compartilho meus projetos e aprendizados!
 </div>
+
 
 
 ## 📊 Estatísticas do GitHub
