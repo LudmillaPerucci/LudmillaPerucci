@@ -1,6 +1,6 @@
 <div align="center">
-  Olá! Eu sou Ludmilla Perucci 💕  
-</div> 
+  # Olá! Eu sou Ludmilla Perucci 💕  
+</div>
 
 <div align="center">
   Apaixonada por tecnologia, programação, inovação e análise de dados.🎲  
