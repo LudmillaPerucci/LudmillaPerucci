@@ -58,7 +58,7 @@ Estou sempre aberta a novas **oportunidades**, **colaborações** e **trocas de 
 Vamos juntos construir algo incrível! ✨
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ludmilla-perucci-a38126189">
+  <a href="https://www.linkedin.com/in/ludmilla-perucci/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">
   </a>
   <a href="mailto:ludmillaperuccisantos@gmail.com">
