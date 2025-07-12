@@ -15,12 +15,13 @@
 
 ### Tecnologias que uso no meu dia a dia  
 
+ 
 <div align="center">
-  <img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
-  <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
-  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> 
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Power BI" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+  <img align="center" alt="Google Sheets" height="40" width="40" src="https://www.gstatic.com/images/branding/product/1x/sheets_2020q4_48dp.png">
+  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> 
+  <img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
 </div>
 
 ---
@@ -29,7 +30,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LudmillaPerucci&layout=compact&langs_count=10&theme=radical&card_width=250&icon_color=FF69B4" alt="Linguagens Mais Usadas" height="140">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LudmillaPerucci&theme=radical" alt="Streak Stats" height="140">
 </div>
 
 ---
